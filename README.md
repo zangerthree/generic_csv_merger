@@ -1,3 +1,5 @@
+These tools are mostly used for AUPost Unmanifested tickets, but can also be used for any csv merging and deduplication as well if needed.
+
 
 csv_merger.py:
 
